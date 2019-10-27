@@ -7,6 +7,7 @@ void main()
 	{
 		printf("%d\t",j);
 	}
+	printf("hello world\n");
 	system("pause");
 
 }
