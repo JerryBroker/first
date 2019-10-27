@@ -22,18 +22,18 @@ public class FindZhiShu {
 			   }
 			   for(int j = 2;j<=i/2;j++){
 				
-        if(i%j == 0){
-          flag = 0;
-          continue;
-        }
+				if(i%j == 0){
+				  flag = 0;
+				  continue;
+				}
 
 
-        }
-        if(flag == 1)
-        {
-          System.out.print(i+ " ");
-        }
-        flag = 1;
+				}
+				if(flag == 1)
+				{
+				  System.out.print(i+ " ");
+				}
+				flag = 1;
 
 		
 			   
